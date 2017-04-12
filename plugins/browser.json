@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "br.com.digital"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "br.com.digital"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "br.com.digital"
+        }
+    }
+}
